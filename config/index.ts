@@ -1,0 +1,15 @@
+export default {
+  ENVIRONMENT: 'development',
+  API_URL: 'https://ap-staging.ambpoker.com/',
+  REDIS_URL: 'redis-18343.c1.ap-southeast-1-1.ec2.cloud.redislabs.com',
+  REDIS_PORT: 18343,
+  REDIS_PASSWORD: 'x9AiKdMp1OnicYqrnnrDz7lwrOL7lYgu',
+  REDIS_PRESENCE_URL: 'redis://127.0.0.1:6379/0',
+  MONGO_DRIVER_URI: '',
+  API_SOCKET_SIGNATURE: 'eyJ0b2tlbiI6IkFMTE9XX1RPX1VTRV9TT0NLRVRfQVBJIn0',
+  API_SIGNATURE: 'ZGRlYjk3Yzk3MzRjMDhhOTQyMjQ4YjhjNDMzZDZkOGM=',
+  JWT_SIGNATURE: 'ambgames-visa-to-access',
+  LINE_NOTIFY_TOKEN: '1K9ek7CcpB4bpHVUsoEGaiIlVlgWuXlTcCCZAmyqAHc',
+  PORT: 8810,
+  PREFIX: 'KANG',
+}

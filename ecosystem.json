@@ -1,0 +1,5 @@
+{
+  "name": "kang",
+  "script": "ts-node",
+  "args": "index.ts"
+}
