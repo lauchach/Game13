@@ -3,7 +3,7 @@ const os = require('os')
 module.exports = {
   apps: [
       {
-        port: 8810,
+        port: 8813,
         name: 'colyseus',
         script: 'ts-node',
         // exec_interpreter: "ts-node",
